@@ -1,0 +1,1 @@
+import{_ as s,o as e,c as t}from"./app.e22a25b6.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"subject/css/cssbase.md","lastUpdated":1677546516000}'),a={name:"subject/css/cssbase.md"};function c(r,o,n,p,d,_){return e(),t("div")}const f=s(a,[["render",c]]);export{m as __pageData,f as default};

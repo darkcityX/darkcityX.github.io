@@ -1,0 +1,1 @@
+import{_ as s,o as e,c as t}from"./app.e22a25b6.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"subject/css/css3.md","lastUpdated":1677546516000}'),c={name:"subject/css/css3.md"};function a(r,o,n,p,d,_){return e(),t("div")}const f=s(c,[["render",a]]);export{m as __pageData,f as default};
